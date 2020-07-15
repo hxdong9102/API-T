@@ -1,0 +1,8 @@
+1---the first line with specified format: python
+2---the second line with specified format: python
+3---the third line with specified format: PYTHON--CAPITAL
+4---the forth line without wanted format.
+5---the fifth line with specified format: python
+6---the sixth line with specified format: python
+7---enpty
+8---End!

@@ -1,0 +1,7 @@
+Hello, welcome to python programming world!
+This text is used to do a test.
+This is the third line.
+The following two line will be same contents.
+What is the reason that you are so young?
+What is the reason that you are so young?
+END OF FILE
